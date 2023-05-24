@@ -1,1 +1,3 @@
-# mycalculator1.0
+# Development Calculator Windows Forms !
+
+First Basic Version
